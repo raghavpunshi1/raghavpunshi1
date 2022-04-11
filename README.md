@@ -20,7 +20,9 @@
 - 🤔 I’m looking forward for developing cutting edge websites.
 
 ## My projects
-- Climate News API
+- Morse Code Translator
+- Weather App
+- Covid Case live reporting
 
 
 
@@ -48,9 +50,9 @@
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=raghavpunshi1&show_icons=true&theme=light&line_height=27" alt="Kiranpal's github stats"/>
 </a>
 
-### My LeetCode Stats
-![Leetcode Stats](https://leetcode.card.workers.dev/?username=raghavpunshi1)
-
+<!-- ### My LeetCode Stats
+![Leetcode Stats](https://leetcode.card.workers.dev/?username=raghavpunshi)
+ -->
 <div align="center">
 Show some ❤️ by starring some of the repositories!
 </div>
