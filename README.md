@@ -2,22 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&color=1A9AF7&lines=I'm+Full+Stack+Web+Developer;and+Competitive+Coder)](https://git.io/typing-svg)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kiranpalsingh1806&label=Views&color=blue&style=plastic" alt="kiranpalsingh" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=raghavpunshi1&label=Views&color=blue&style=plastic" alt="raghavpunshi" /> </p>
 
-<a href="https://linkedin.com/in/kiranpalsingh1806">
-  <img align="left" alt="Kiranpal's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://github.com/kiranpalsingh1806">
-  <img align="left" alt="Kiranpal's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a>
-<a href="https://t.me/kiranpalsingh1806">
-  <img align="left" alt="Kiranpal's Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />
-</a>
-<a href="https://instagram.com/kiranpalsingh24/">
-  <img align="left" alt="Kiranpal's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.facebook.com/kiranpalsingh1806/">
-  <img align="left" alt="Kiranpal's Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+<a href="https://github.com/raghavpunshi1">
+  <img align="left" alt="raghav" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
 <br/>
@@ -36,7 +24,7 @@
 
 
 
-[![GitHub kiranpalsingh1806](https://img.shields.io/github/followers/kiranpalsingh1806?label=follow&style=social)](https://github.com/raghavpunshi1)
+[![GitHub raghavpunshi1](https://img.shields.io/github/followers/raghavpunshi1?label=follow&style=social)](https://github.com/raghavpunshi1)
 
 ## 🔥 Streak Stats
 
