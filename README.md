@@ -29,7 +29,7 @@
 ## 🔥 Streak Stats
 
 <p align="center">
-	<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=raghavpunshi1&theme=tokyonight_duo&hide_border=true" alt="kiranpalsingh1806" />
+	<img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=raghavpunshi1&theme=tokyonight_duo&hide_border=true" alt="raghavpunshi" />
   <p align="center"> Stay hungry, Stay foolish 🔥 </p>
 </p>
 
