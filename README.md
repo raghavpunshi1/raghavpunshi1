@@ -12,7 +12,6 @@
 <br/> 
 
 
-- 🔭 I’m currently working on [my skills].
 - 🌱 I’m currently doing full stack development.
 - 🤔 I’m looking forward for more contribution in 2022.
 - 📫 How to reach me: [LinkedIn - @raghavpunshi1](https://www.linkedin.com/in/raghavpunshi/)
