@@ -52,37 +52,7 @@
 
 - **BingeHub – Movie/TV Explorer** – *React, Material UI*  
   App to explore movies and TV shows with a modern UI and smooth browsing experience.
-
-- (You can add more project bullets here with links to your repos.)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=raghavpunshi1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    alt="Raghav's GitHub stats"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=raghavpunshi1&theme=tokyonight_duo&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
-
-<!-- Optional: Top Languages Card -->
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghavpunshi1&layout=compact&theme=tokyonight&hide_border=true"
-    alt="Top Languages"
-  />
-</p>
-
----
-
+  
 <!-- Optional: LeetCode / Coding Profiles Section -->
 <!--
 ### 🧠 Problem Solving
