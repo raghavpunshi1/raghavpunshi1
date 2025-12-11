@@ -21,7 +21,7 @@
 - 🤖 Recently worked on **LLM integrations** (Google Gemini) for production systems and internal tools.
 - 📈 I care about **clean code**, **high test coverage**, and **reliable systems** more than just "it works on my machine".
 - 🧩 In my free time, I tinker with **side projects**, **DSA**, and explore **DevOps** tooling.
-- 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/raghavpunshi1/)** or **raghavpunshi@gmail.com**.
+- 📫 Reach me on **[LinkedIn](https://www.linkedin.com/in/raghav-punshi-817a1a191/)** or **raghavpunshi@gmail.com**.
 
 ---
 
