@@ -7,7 +7,7 @@
   <a href="https://github.com/raghavpunshi1?tab=followers">
     <img src="https://img.shields.io/github/followers/raghavpunshi1?label=Followers&style=social" alt="GitHub Followers" />
   </a>
-  <a href="https://www.linkedin.com/in/raghavpunshi1/">
+  <a href="https://www.linkedin.com/in/raghav-punshi-817a1a191/">
     <img src="https://img.shields.io/badge/LinkedIn-Raghav%20Punshi-blue?logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
